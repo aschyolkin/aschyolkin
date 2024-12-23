@@ -19,7 +19,7 @@
 
 ## 💬 Контакты:
 
-- 📫 **Email**: [ваш.email@example.com](mailto:ваш.email@example.com)
+- 📫 **Email**: [aschyolkin(собачка)gmail.com](mailto:aschyolkin@gmail.com)
 - 💼 **LinkedIn**: [Мой профиль](https://linkedin.com/in/ваш_профиль)
 - 🐦 **Twitter**: [@ваш_никнейм](https://twitter.com/ваш_никнейм)
 
