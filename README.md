@@ -20,7 +20,7 @@
 ## 💬 Контакты:
 
 - 📫 **Email**: [aschyolkin(собачка)gmail.com](mailto:aschyolkin@gmail.com)
-- 💼 **LinkedIn**: [Мой профиль](https://linkedin.com/in/ваш_профиль)
+- 💼 **LinkedIn**: [Мой профиль](https://linkedin.com/in/ваш_профиль](https://www.linkedin.com/in/andrey-schyolkin/)
 - 🐦 **Twitter**: [@ваш_никнейм](https://twitter.com/ваш_никнейм)
 
 ---
