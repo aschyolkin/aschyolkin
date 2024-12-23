@@ -17,22 +17,6 @@
 
 ---
 
-## 📈 GitHub Статистика:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aschyolkin&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aschyolkin&layout=compact&theme=tokyonight)
-
----
-
-## 📝 Последние посты на LinkedIn:
-
-> Здесь вы можете добавить ссылки на свои посты с интересными комментариями. Например:
-- [🛠️ «Как я настроил идеальный кластер Kubernetes»](https://linkedin.com)
-- [📜 «Топ 5 ошибок начинающих Linux-администраторов»](https://linkedin.com)
-
----
-
 ## 💬 Контакты:
 
 - 📫 **Email**: [ваш.email@example.com](mailto:ваш.email@example.com)
