@@ -19,9 +19,9 @@
 
 ## 📈 GitHub Статистика:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_никнейм&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aschyolkin&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_никнейм&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aschyolkin&layout=compact&theme=tokyonight)
 
 ---
 
