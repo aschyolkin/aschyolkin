@@ -1,6 +1,6 @@
 # 👋 Привет! Добро пожаловать в мой GitHub
 
-![Header Image](https://source.unsplash.com/1600x400/?technology,coding)
+![Header Image](./header.png)
 
 Меня зовут Андрей, и я:
 - 🌟 Администратор Linux-систем
